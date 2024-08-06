@@ -1,3 +1,0 @@
-[submodule "terraform-aws-s3-website-tests"]
-	path = terraform-aws-s3-website-tests
-	url = https://github.com/saumrai21/terraform-aws-s3-website-tests.git
